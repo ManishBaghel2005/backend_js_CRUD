@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "manish":"nodemon index.js"
+    "manish": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +16,7 @@
     "ejs": "^6.0.1",
     "express": "^5.2.1",
     "mongoose": "^9.7.1",
+    "mongoose-paginate-v2": "^1.9.5",
     "nodemon": "^3.1.14"
   }
 }
